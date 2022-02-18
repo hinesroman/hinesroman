@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hinesroman and glad to join in github.
+- 👀 I’m interested in PC programming.
+- 🌱 I’m currently learning java and python.
